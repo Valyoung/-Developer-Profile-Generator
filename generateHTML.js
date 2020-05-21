@@ -1,3 +1,5 @@
+// Got this template and code from activity 9
+
 const colors = {
     green: {
       wrapperBackground: "#E6E1C3",
